@@ -12,4 +12,4 @@ This tool estimates the potential solar energy output for a location using NASA'
 
 ## 🚀 How to Run Locally
 
-1. Clone the repo:
+1. Clone the repo: https://github.com/Karim-khodr/Solar-Panel-Estimator.git
