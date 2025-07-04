@@ -1,2 +1,1 @@
-# Solar-Panel-Estimator
-Estimate solar panel output using real-time satellite data
+Your README will go here (copy from earlier response).
